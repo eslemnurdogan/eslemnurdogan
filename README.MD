@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslemnurdogan)](https://github.com/anuraghazra/github-readme-stats)
-
+hello github. i'm learning kafama göre. thats my indie mindie bir şeyler çabaladığım place. henüz pek ziyaretçim yok update yaparak motive ediyorum kendimi bunu okuyorsan ya çok şanslısın ya da updatelerime takmışsın başarılar diliyorum
